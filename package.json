@@ -1,0 +1,18 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:api": "npm --prefix api run start",
+    "start:frontend": "npm --prefix frontend run start",
+    "start": "concurrently \"npm run start:api\" \"npm run start:frontend\"",
+    "postinstall": "npm --prefix api install && npm --prefix frontend install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.2.1"
+  }
+}

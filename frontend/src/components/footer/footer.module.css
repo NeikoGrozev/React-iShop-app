@@ -1,0 +1,25 @@
+.wrapper {
+    height: 50px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 60px;
+    position: absolute;
+    bottom: 0;
+    width: -webkit-fill-available;
+}
+
+.copyright {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.iconContainer {
+    width: 100px;
+}
+
+.icon {
+    width: 20px;
+    margin: 0 10px;
+}

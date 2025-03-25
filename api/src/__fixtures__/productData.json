@@ -1,0 +1,347 @@
+{
+    "_v": "20.2",
+    "_type": "product",
+    "currency": "USD",
+    "id": "56736828M",
+    "image_groups": [
+        {
+            "_type": "image_group",
+            "images": [
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , large",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dw34e2e58b/images/large/B0574220_CP1_0.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dw34e2e58b/images/large/B0574220_CP1_0.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , large",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dwffcb75b7/images/large/B0574220_CP1_B0.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dwffcb75b7/images/large/B0574220_CP1_B0.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , large",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dw1dd3d2d0/images/large/B0574220_CP1_L1.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dw1dd3d2d0/images/large/B0574220_CP1_L1.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , large",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dwb98882c4/images/large/B0574220_CP1_L2.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dwb98882c4/images/large/B0574220_CP1_L2.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , large",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dw4aad51ec/images/large/B0574220_CP1_L3.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dw4aad51ec/images/large/B0574220_CP1_L3.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                }
+            ],
+            "view_type": "large"
+        },
+        {
+            "_type": "image_group",
+            "images": [
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , medium",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dwc3996c89/images/medium/B0574220_CP1_0.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dwc3996c89/images/medium/B0574220_CP1_0.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , medium",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dw7f62a341/images/medium/B0574220_CP1_B0.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dw7f62a341/images/medium/B0574220_CP1_B0.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , medium",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dw301fb48c/images/medium/B0574220_CP1_L1.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dw301fb48c/images/medium/B0574220_CP1_L1.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , medium",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dw2780b8df/images/medium/B0574220_CP1_L2.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dw2780b8df/images/medium/B0574220_CP1_L2.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , medium",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dw1c4a6e9a/images/medium/B0574220_CP1_L3.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dw1c4a6e9a/images/medium/B0574220_CP1_L3.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                }
+            ],
+            "view_type": "medium"
+        },
+        {
+            "_type": "image_group",
+            "images": [
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , small",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dw8df67c17/images/small/B0574220_CP1_0.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dw8df67c17/images/small/B0574220_CP1_0.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , small",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dwc040ee31/images/small/B0574220_CP1_B0.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dwc040ee31/images/small/B0574220_CP1_B0.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , small",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dw883a3d6b/images/small/B0574220_CP1_L1.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dw883a3d6b/images/small/B0574220_CP1_L1.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , small",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dwe887f643/images/small/B0574220_CP1_L2.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dwe887f643/images/small/B0574220_CP1_L2.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                },
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , small",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dw9b62ac1e/images/small/B0574220_CP1_L3.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dw9b62ac1e/images/small/B0574220_CP1_L3.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                }
+            ],
+            "view_type": "small"
+        },
+        {
+            "_type": "image_group",
+            "images": [
+                {
+                    "_type": "image",
+                    "alt": "Straight Fit Shorts With Button Closure, , swatch",
+                    "dis_base_link": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BJXB_014/on/demandware.static/-/Sites-apparel-m-catalog/default/dwb1ba7e47/images/swatch/B0574220_CP1_sw.jpg",
+                    "link": "https://bjxb-014.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-apparel-m-catalog/default/dwb1ba7e47/images/swatch/B0574220_CP1_sw.jpg",
+                    "title": "Straight Fit Shorts With Button Closure, "
+                }
+            ],
+            "view_type": "swatch"
+        }
+    ],
+    "long_description": "<ul>\n<li>66% cotton, 30% polyester, 4% elastane</li>\n<li>straight-fit</li>\n<li>on seam front pockets</li>\n<li>button closure</li>\n<li>flap back pockets with button closure</li>\n<li>dry clean only</li>\n</ul>",
+    "master": {
+        "_type": "master",
+        "link": "https://bjxb-014.dx.commercecloud.salesforce.com/s/RefArch/dw/shop/v20_2/products/56736828M",
+        "master_id": "56736828M",
+        "price": 155.00
+    },
+    "min_order_quantity": 1,
+    "name": "Straight Fit Shorts With Button Closure",
+    "page_description": "These straight-fit shorts are eager to impress, wear it with the Kris HL sportcoat for a warmed up suit. Made in our cotton stretch with pinstripe pattern fabric.",
+    "page_title": "Men's Straight Fit Shorts With Button Closure",
+    "price": 155.00,
+    "primary_category_id": "mens-clothing-shorts",
+    "short_description": "These straight-fit shorts are eager to impress, wear it with the Kris HL sportcoat for a warmed up suit. Made in our cotton stretch with pinstripe pattern fabric.",
+    "step_quantity": 1,
+    "type": {
+        "_type": "product_type",
+        "master": true
+    },
+    "variants": [
+        {
+            "_type": "variant",
+            "link": "https://bjxb-014.dx.commercecloud.salesforce.com/s/RefArch/dw/shop/v20_2/products/883360544038M",
+            "price": 155.00,
+            "product_id": "883360544038M",
+            "variation_values": {
+                "color": "CP1",
+                "size": "31"
+            }
+        },
+        {
+            "_type": "variant",
+            "link": "https://bjxb-014.dx.commercecloud.salesforce.com/s/RefArch/dw/shop/v20_2/products/883360544052M",
+            "price": 155.00,
+            "product_id": "883360544052M",
+            "variation_values": {
+                "color": "CP1",
+                "size": "33"
+            }
+        },
+        {
+            "_type": "variant",
+            "link": "https://bjxb-014.dx.commercecloud.salesforce.com/s/RefArch/dw/shop/v20_2/products/883360544083M",
+            "price": 155.00,
+            "product_id": "883360544083M",
+            "variation_values": {
+                "color": "CP1",
+                "size": "38"
+            }
+        },
+        {
+            "_type": "variant",
+            "link": "https://bjxb-014.dx.commercecloud.salesforce.com/s/RefArch/dw/shop/v20_2/products/883360544069M",
+            "price": 155.00,
+            "product_id": "883360544069M",
+            "variation_values": {
+                "color": "CP1",
+                "size": "34"
+            }
+        },
+        {
+            "_type": "variant",
+            "link": "https://bjxb-014.dx.commercecloud.salesforce.com/s/RefArch/dw/shop/v20_2/products/883360544014M",
+            "price": 155.00,
+            "product_id": "883360544014M",
+            "variation_values": {
+                "color": "CP1",
+                "size": "29"
+            }
+        },
+        {
+            "_type": "variant",
+            "link": "https://bjxb-014.dx.commercecloud.salesforce.com/s/RefArch/dw/shop/v20_2/products/883360544045M",
+            "price": 155.00,
+            "product_id": "883360544045M",
+            "variation_values": {
+                "color": "CP1",
+                "size": "32"
+            }
+        },
+        {
+            "_type": "variant",
+            "link": "https://bjxb-014.dx.commercecloud.salesforce.com/s/RefArch/dw/shop/v20_2/products/883360544021M",
+            "price": 155.00,
+            "product_id": "883360544021M",
+            "variation_values": {
+                "color": "CP1",
+                "size": "30"
+            }
+        },
+        {
+            "_type": "variant",
+            "link": "https://bjxb-014.dx.commercecloud.salesforce.com/s/RefArch/dw/shop/v20_2/products/883360544007M",
+            "price": 155.00,
+            "product_id": "883360544007M",
+            "variation_values": {
+                "color": "CP1",
+                "size": "28"
+            }
+        },
+        {
+            "_type": "variant",
+            "link": "https://bjxb-014.dx.commercecloud.salesforce.com/s/RefArch/dw/shop/v20_2/products/883360544090M",
+            "price": 155.00,
+            "product_id": "883360544090M",
+            "variation_values": {
+                "color": "CP1",
+                "size": "40"
+            }
+        },
+        {
+            "_type": "variant",
+            "link": "https://bjxb-014.dx.commercecloud.salesforce.com/s/RefArch/dw/shop/v20_2/products/883360544076M",
+            "price": 155.00,
+            "product_id": "883360544076M",
+            "variation_values": {
+                "color": "CP1",
+                "size": "36"
+            }
+        }
+    ],
+    "variation_attributes": [
+        {
+            "_type": "variation_attribute",
+            "id": "color",
+            "name": "Color",
+            "values": [
+                {
+                    "_type": "variation_attribute_value",
+                    "name": "Gray",
+                    "orderable": true,
+                    "value": "CP1"
+                }
+            ]
+        },
+        {
+            "_type": "variation_attribute",
+            "id": "size",
+            "name": "Size",
+            "values": [
+                {
+                    "_type": "variation_attribute_value",
+                    "name": "28",
+                    "orderable": true,
+                    "value": "28"
+                },
+                {
+                    "_type": "variation_attribute_value",
+                    "name": "29",
+                    "orderable": true,
+                    "value": "29"
+                },
+                {
+                    "_type": "variation_attribute_value",
+                    "name": "30",
+                    "orderable": true,
+                    "value": "30"
+                },
+                {
+                    "_type": "variation_attribute_value",
+                    "name": "31",
+                    "orderable": true,
+                    "value": "31"
+                },
+                {
+                    "_type": "variation_attribute_value",
+                    "name": "32",
+                    "orderable": true,
+                    "value": "32"
+                },
+                {
+                    "_type": "variation_attribute_value",
+                    "name": "33",
+                    "orderable": true,
+                    "value": "33"
+                },
+                {
+                    "_type": "variation_attribute_value",
+                    "name": "34",
+                    "orderable": true,
+                    "value": "34"
+                },
+                {
+                    "_type": "variation_attribute_value",
+                    "name": "36",
+                    "orderable": true,
+                    "value": "36"
+                },
+                {
+                    "_type": "variation_attribute_value",
+                    "name": "38",
+                    "orderable": true,
+                    "value": "38"
+                },
+                {
+                    "_type": "variation_attribute_value",
+                    "name": "40",
+                    "orderable": true,
+                    "value": "40"
+                }
+            ]
+        }
+    ]
+}

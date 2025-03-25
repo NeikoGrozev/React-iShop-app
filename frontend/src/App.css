@@ -1,0 +1,6 @@
+.wrapper {
+    text-align: center;
+    background-color: aquamarine;
+    min-height: 100vh;
+    position: relative;
+}

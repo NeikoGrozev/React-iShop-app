@@ -1,0 +1,46 @@
+.wrapper {
+    border: 1px dotted blue;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    box-shadow: rgba(100, 100, 111, 0.5) 0px 7px 29px 0px;
+    background-color: mintcream;
+}
+
+.titleContainer{
+    min-height: 65px;
+}
+
+.title {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 0 15px;
+}
+
+.imgContainer img {
+    max-width: 120px;
+    padding-bottom: 40px;
+    
+}
+
+.button {
+    background-color:skyblue;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 130px;
+    height: 20px;
+    margin: 0 auto;
+    line-height: 20px;
+    box-shadow: rgba(100, 100, 111, 0.5) 0px 7px 29px 0px;
+}
+
+.button:hover {
+    background-color: cadetblue;
+    cursor: pointer;
+    box-shadow: rgba(44, 44, 48, 0.5) 0px 7px 29px 0px;
+}
+
+.button a {
+    text-decoration: none;
+}

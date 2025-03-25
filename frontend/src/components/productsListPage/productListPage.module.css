@@ -1,0 +1,12 @@
+.productListWrapper {
+    padding: 50px 50px 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+
+.text{
+    font-size: 46px;
+    color: deeppink;
+}

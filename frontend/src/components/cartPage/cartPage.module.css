@@ -1,0 +1,101 @@
+.productContainer {
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline-flex;
+    padding: 10px;
+    align-items: center;
+    min-width: 1000px;
+    background-color: lightblue;
+}
+
+.index {
+    margin-right: 10px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.name {
+    padding: 0 20px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: auto;
+}
+
+.columnContainer {
+    padding: 20px
+}
+
+.columnTitle {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.columnValue {
+    font-size: 18px;
+    font-family: cursive;
+    color: darkgray;
+}
+
+.quantityContainer {
+    display: inline;
+    display: inline-flex;
+    font-size: 20px;
+}
+
+.quantity {
+    padding: 0 10px;
+    font-weight: 700;
+}
+
+.quantityButton {
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    background-color: darkgray;
+    width: 30px;
+    height: 30px;
+    font-weight: 600;
+}
+
+.quantityButton:hover {
+    cursor: pointer;
+}
+
+.totalPriceContainer {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 250px;
+    margin: 100px 100px 100px auto;
+    padding: 10px;
+    background-color: salmon;
+}
+
+.totalPriceTitle {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.bottomContainer {
+    display: flex;
+}
+
+.checkoutButton {
+    margin: 100px 100px 100px auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 250px;
+    padding: 10px;
+    font-size: 26px;
+    font-weight: 700;
+    background-color: antiquewhite;
+}
+
+.checkoutButton:hover {
+    cursor: pointer;
+    color: olivedrab;
+}
+
+.emptyBasket {
+    font-size: 40px;
+    margin-top: 100px;
+}
